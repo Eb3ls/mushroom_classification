@@ -9,3 +9,6 @@ image_sizes.csv
 best_model.pth
 best_val_loss.txt
 w2c.mat
+*.pth
+*.txt
+*.csv
