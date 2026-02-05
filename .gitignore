@@ -1,10 +1,6 @@
-# Virtual environments
 venv/
-
-# Environment variables
 .env
-
-# Other files
+__pycache__/
 image_sizes.csv
 best_model.pth
 best_val_loss.txt
