@@ -24,7 +24,7 @@ Segmentation does not improve overall accuracy, but reduces safety-critical fals
 ## Setup
 
 ```bash
-pip install torch torchvision kagglehub opencv-python scikit-image scikit-learn matplotlib pandas
+pip install -r requirements.txt
 ```
 
 Open `main.ipynb` in Jupyter and run all cells.
